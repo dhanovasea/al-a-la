@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Qur'ani: Mengenal Surah Al-A'la",
+  "description": "Media pembelajaran Pendidikan Agama Islam (PAI) interaktif untuk mengenal, membaca, memahami makna Surah Al-A'la, dilengkapi permainan edukasi dan kuis tantangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
